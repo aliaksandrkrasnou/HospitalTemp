@@ -1,0 +1,3 @@
+MedicalOperation,122,Title 1,long reason,ENDED,1,1
+MedicalMedicine,942,Title 2,sad,IN_PROGRESS,1,2
+MedicalProcedure,412,Title 3,long reason,NOT_STARTED,2,1
